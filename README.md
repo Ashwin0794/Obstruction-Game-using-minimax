@@ -1,4 +1,3 @@
-# AI_Programming_Assignment_2
-Obstruction game
+Obstruction game using minimax approach
 
 Please refer to Assignment2.pdf file. 
